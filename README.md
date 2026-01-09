@@ -1,11 +1,19 @@
 # Security Portfolio
 
+This only covers the bounties, audits and audit competitions done under the 100proof handle.
+
+Timeline:
+- 2022. Found first bounty in September 2022. 100proof came into being.
+- 2023. Exclusively did bounty hunting and found KyberSwap bounty.
+- 2024. Participated in one audit competition, Euler V2 on [Cantina](https://cantina.xyz) but otherwise bounty hunted. Morpho and NEAR bounties landed this year.
+- 2025. Bounty hunted (without success) until September then performed 5 audits until end of year.
+
 ## Bounties
 
-- [Notional](https://github.com/one-hundred-proof/notional-flash-attack)
-- [KyberSwap](https://100proof.org/kyberswap-post-mortem.html)
-- **Morpho**. Currently no write-up but credit is given here in the Morpho docs on [Security Considerations for Vault Curators](https://docs.morpho.org/curate/concepts/security-considerations/)
-- [NEAR](https://100proof.org/near-total-network-shutdown.html) with [neumo](https://x.com/neumoxx)
+- [Notional](https://github.com/one-hundred-proof/notional-flash-attack). 2022.
+- [KyberSwap](https://100proof.org/kyberswap-post-mortem.html). 2023.
+- **Morpho**. Currently no write-up but credit is given here in the Morpho docs on [Security Considerations for Vault Curators](https://docs.morpho.org/curate/concepts/security-considerations/). 2024
+- [NEAR](https://100proof.org/near-total-network-shutdown.html) with [neumo](https://x.com/neumoxx). 2024
 
 ----------------------------------------------------------------------------------------------------
 

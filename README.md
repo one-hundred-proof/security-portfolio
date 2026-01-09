@@ -8,6 +8,11 @@ This only covers the bounties, audits and audit competitions done under the 100p
 
 For write-ups and other security related posts see [100proof.org](https://100proof.org). I strive to maintain a very high standard in my written communication.
 
+Apart from the bug bounty write-ups three posts I would recommend reading are:
+- [An incredible opportunity to finally prove the value of formal methods](https://100proof.org/open-letter-on-fm.html)
+- [A questionable design choice in Stacks/Clarity](https://100proof.org/a-questionable-design-choice.html)
+- [Fixed point and real arithmetic are more different than you think](https://100proof.org/eighteen-decimals-not-approx-real-arith.html)
+
 ----------------------------------------------------------------------------------------------------
 
 ## Timeline

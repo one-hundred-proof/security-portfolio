@@ -2,7 +2,17 @@
 
 This only covers the bounties, audits and audit competitions done under the 100proof handle.
 
-Timeline:
+----------------------------------------------------------------------------------------------------
+
+## Blog
+
+For write-ups and other security related posts see [100proof.org](https://100proof.org). I strive to maintain a very high standard in my written communication.
+
+----------------------------------------------------------------------------------------------------
+
+## Timeline
+
+
 - **2022** Found first bounty in September 2022. 100proof came into being.
 - **2023** Exclusively did bounty hunting and found KyberSwap bounty.
 - **2024** Participated in one audit competition, Euler V2 on [Cantina](https://cantina.xyz) but otherwise bounty hunted. Morpho and NEAR bounties landed this year.

@@ -35,4 +35,4 @@ Timeline:
 ## Audit competitions
 
 - Euler v2 Competition. 2nd place. Team effort with **highbit**.
-![alt text](assets/README-image.png)
+![Euler v2 contest badge](assets/euler-v2-contest-badge.png)

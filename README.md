@@ -25,10 +25,10 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 
 ## Bounties
 
-- **Sep 2022** [Notional](https://github.com/one-hundred-proof/notional-flash-attack). 2022.
-- **Apr 2023** [KyberSwap](https://100proof.org/kyberswap-post-mortem.html). 2023.
-- **Aug 2024** **Morpho**. Currently no write-up but credit is given here in the Morpho docs on [Security Considerations for Vault Curators](https://docs.morpho.org/curate/concepts/security-considerations/). 2024
-- **Nov 2024** [NEAR](https://100proof.org/near-total-network-shutdown.html) with [neumo](https://x.com/neumoxx). 2024
+- **Sep 2022** [Notional](https://github.com/one-hundred-proof/notional-flash-attack).
+- **Apr 2023** [KyberSwap](https://100proof.org/kyberswap-post-mortem.html).
+- **Aug 2024** **Morpho**. Currently no write-up but credit is given here in the Morpho docs on [Security Considerations for Vault Curators](https://docs.morpho.org/curate/concepts/security-considerations/).
+- **Nov 2024** [NEAR](https://100proof.org/near-total-network-shutdown.html) with [neumo](https://x.com/neumoxx).
 
 ----------------------------------------------------------------------------------------------------
 

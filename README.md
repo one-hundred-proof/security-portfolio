@@ -46,4 +46,4 @@ For write-ups and other security related posts see [100proof.org](https://100pro
 
 - Euler v2 Competition. 2nd place. Team effort with **highbit**.
 
-  <img src="assets/euler-v2-contest-badge.png" width="25%"/>
+  <img src="assets/euler-v2-contest-badge.png" width="50%"/>

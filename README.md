@@ -32,12 +32,12 @@ For write-ups and other security related posts see [100proof.org](https://100pro
 ### Cyfrin
 
 - [Remora Dynamic Tokens](./2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)
-- [Zest v2]()
 - [Angstrom](./2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.pdf)
 
 ### Greybeard Security
 
 - [Bitflow HODLMM](./bitflow-HODLMM-2025-10.pdf)
+- [Zest v2]()
 - [Hermetica hBTC](./hermetica-hbtc-2025-11.pdf)
 
 ----------------------------------------------------------------------------------------------------

@@ -25,10 +25,10 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 
 ## Bounties
 
-- [Notional](https://github.com/one-hundred-proof/notional-flash-attack). 2022.
-- [KyberSwap](https://100proof.org/kyberswap-post-mortem.html). 2023.
-- **Morpho**. Currently no write-up but credit is given here in the Morpho docs on [Security Considerations for Vault Curators](https://docs.morpho.org/curate/concepts/security-considerations/). 2024
-- [NEAR](https://100proof.org/near-total-network-shutdown.html) with [neumo](https://x.com/neumoxx). 2024
+- **Sep 2022** [Notional](https://github.com/one-hundred-proof/notional-flash-attack). 2022.
+- **Apr 2023** [KyberSwap](https://100proof.org/kyberswap-post-mortem.html). 2023.
+- **Aug 2024** **Morpho**. Currently no write-up but credit is given here in the Morpho docs on [Security Considerations for Vault Curators](https://docs.morpho.org/curate/concepts/security-considerations/). 2024
+- **Nov 2024** [NEAR](https://100proof.org/near-total-network-shutdown.html) with [neumo](https://x.com/neumoxx). 2024
 
 ----------------------------------------------------------------------------------------------------
 
@@ -36,14 +36,14 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 
 ### Cyfrin
 
-- [Remora Dynamic Tokens](./2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)
-- [Angstrom](./2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.pdf)
+- **Oct 2025** [Remora Dynamic Tokens](./2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)
+- **Sep 2025** [Angstrom](./2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.pdf)
 
 ### Greybeard Security
 
-- [Bitflow HODLMM](./bitflow-HODLMM-2025-10.pdf)
-- [Zest v2]()
-- [Hermetica hBTC](./hermetica-hbtc-2025-11.pdf)
+- **Oct 2025** [Bitflow HODLMM](./bitflow-HODLMM-2025-10.pdf)
+- **Oct 2025** [Zest v2]()
+- **Nov 2025** [Hermetica hBTC](./hermetica-hbtc-2025-11.pdf)
 
 ----------------------------------------------------------------------------------------------------
 

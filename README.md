@@ -42,7 +42,7 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 ### Greybeard Security
 
 - **Oct 2025** [Bitflow HODLMM](./bitflow-HODLMM-2025-10.pdf)
-- **Oct 2025** [Zest v2]()
+- **Oct 2025** [Zest v2](./zest-v2-2025-10.pdf)
 - **Nov 2025** [Hermetica hBTC](./hermetica-hbtc-2025-11.pdf)
 
 ----------------------------------------------------------------------------------------------------
